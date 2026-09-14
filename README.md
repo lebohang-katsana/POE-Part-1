@@ -20,6 +20,7 @@
  **Website Pages**
 
 **The website consists of five main pages:**
+
 | **Page** | **File Name** | **Description** |
 | Home | index.html | Introduces Ubuntu Bakery and displays featured products. |
 | About Us | about.html | Gives background information about the bakery and includes its mission, vision and values. |
