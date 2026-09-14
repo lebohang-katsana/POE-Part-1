@@ -30,7 +30,7 @@ Enquiry  enquiry.html    Gives customers a way to submit questions or requests.
 Contact  contact.html    Provides the information customers need to get in touch with Ubuntu Bakery. 
 
 
-**Project Structure**
+Project Structure
 
 WEDE_POE_ST0481320/
 
@@ -133,7 +133,7 @@ ABOUT │PRODUCTS │ ENQUIRY
 ![Mobile Screenshot](Screenshot/mobile.png)
 
 
-## How to View the Website
+**How to View the Website**
 
 1. Navigate to the project folder
 2. Double-click `index.html`
