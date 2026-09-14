@@ -23,11 +23,11 @@
 
  **Page**     **File Name**      **Description** 
 
-Home    index.html        Introduces Ubuntu Bakery and displays featured products. 
-About Us about.html      Gives background information about the bakery and includes its mission, vision and values. 
-Products  products.html  Provides information about bread, pastries, cakes, cupcakes and special orders.
-Enquiry  enquiry.html    Gives customers a way to submit questions or requests. 
-Contact  contact.html    Provides the information customers need to get in touch with Ubuntu Bakery. 
+Home-index.html-Introduces Ubuntu Bakery and displays featured products. 
+About Us-about.html-Gives background information about the bakery and includes its mission, vision and values. 
+Products-products.html-Provides information about bread, pastries, cakes, cupcakes and special orders.
+Enquiry-enquiry.html-Gives customers a way to submit questions or requests. 
+Contact-contact.html-Provides the information customers need to get in touch with Ubuntu Bakery. 
 
 
 **Project Structure**
