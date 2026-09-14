@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+<!-- ============================================ -->
+<!-- UBUNTU BAKERY - ENQUIRY PAGE                -->
+<!-- Author: Lebohang Katsana                     -->
+<!-- Date: 14 September 2026                      -->
+<!-- Description: This page allows customers to   -->
+<!-- submit questions or requests to Ubuntu       -->
+<!-- Bakery via a form.                           -->
+<!-- ============================================ -->
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -7,29 +15,51 @@
              <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
+<!-- ===== START OF HEADER ===== -->
+
         <header>
             <h1>Ubuntu Bakery</h1>
         </header>
+<!-- ===== END OF HEADER ===== -->
+
+    <!-- ===== START OF NAVIGATION ===== -->
+
         <nav>
             <a href="index.html">Home</a>
             <a href="about.html">About Us</a>
             <a href="products.html">Products</a>
             <a href="enquiry.html">Enquiry</a>
             <a href="contact.html">Contact</a>
+           
         </nav>
+<!-- ===== END OF NAVIGATION ===== -->
+
+    <!-- ===== START OF MAIN CONTENT ===== -->
+
         <main>
+
+            <!-- Enquiry Page Section -->
             <h2>Make an enquiry</h2>
+
+            <!-- Enquiry Form -->
             <form>
+
+                 <!-- Name field -->
                 <label for="name">Full Name:</label>
                 <input type="text" id="name" name="name">
                 <br><br>
                 
+                 <!-- Email field -->
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email">
                 <br><br>
+
+                 <!-- Phone field -->
                 <label for="phone">Phone Number:</label>
                 <input type="tel" id="phone" name="phone">
                 <br><br>
+
+                <!-- Enquiry Type dropdown -->
                 <label for="enquiry-type">Enquiry Type:</label>
                 <select id="enquiry-type" name="enquiry-type">
                     <option value="">Please select</option>
@@ -38,16 +68,26 @@
                     <option value="general">General Enquiry</option>
                 </select>
                 <br><br>
+
+                <!-- Message field -->
                 <label for="message">Message:</label>
                 <br>
                 <textarea id="message" name="message" rows="5" cols="30"></textarea>
                 <br><br>
+
+                 <!-- Submit button -->
                 <button type="submit"
                 class="btn">Submit Enquiry</button>
             </form>
         </main>
+
+        <!-- ===== END OF MAIN CONTENT ===== -->
+
+    <!-- ===== START OF FOOTER ===== -->
                 <footer>
                     <p>&copy; 2026 Ubuntu Bakery. All rights reserved.</p>
                 </footer>
+                 <!-- ===== END OF FOOTER ===== -->
+                  
             </body>
             </html>
