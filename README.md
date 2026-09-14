@@ -28,7 +28,6 @@
 | Products | products.html | Provides information about bread, pastries, cakes, cupcakes and special orders. |
 | Enquiry | enquiry.html | Gives customers a way to submit questions or requests. |
 | Contact | contact.html | Provides the information customers need to get in touch with Ubuntu Bakery. |
-Step 4: Preview the changes
 
 **Project Structure**
 
