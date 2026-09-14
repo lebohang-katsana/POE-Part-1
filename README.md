@@ -59,7 +59,7 @@ WEDE_POE_ST0481320
 └── README.md
 
 
-## Technologies Used
+Technologies Used
 
 HTML - Used to create and organise the webpage structure.
 CSS - Used to style the pages and control their visual appearance.
@@ -67,21 +67,21 @@ Images - Used to display bakery products and make the website more visually appe
 GitHub - Used for project version control and documentation.
 
 
-## Design Approach
+Design Approach
 
 The website follows a simple and organised design so that visitors can navigate between the different pages easily. A consistent navigation menu is included across the website. Bakery-related images are also used to support the website content and improve its visual presentation.
 
 
-## Responsive Design
+Responsive Design
 
 The website is fully responsive and works on all screen sizes:
 
-**Desktop:** 1200px and above
-**Tablet:** 768px and below
-**Mobile:** 480px and below
+Desktop: 1200px and above
+Tablet: 768px and below
+Mobile: 480px and below
 
 
-## Current Features
+Current Features
 
 Five connected webpages.
 Navigation links between the pages.
@@ -93,7 +93,7 @@ Enquiry and contact sections.
 Responsive design for different screen sizes.
 
 
-## Future Improvements
+ Future Improvements
 
  Adding more product images.
  Improving responsiveness.
@@ -101,12 +101,12 @@ Responsive design for different screen sizes.
  Adding an online ordering system.
 
 
-## Target Audience
+ Target Audience
 
 The website is designed for local customers who are interested in bakery products and services. This includes customers looking for bread, pastries, cupcakes and cakes, as well as people who require special orders for celebrations and other occasions.
 
 
-## Sitemap
+Sitemap
 
 
  HOME 
@@ -121,7 +121,7 @@ ABOUT │PRODUCTS │ ENQUIRY
 
 
 
-## Screenshots
+ Screenshots
 
 ### Desktop View (1200px+)
 ![Desktop Screenshot](Screenshot/desktop.png)
@@ -141,32 +141,32 @@ ABOUT │PRODUCTS │ ENQUIRY
 
 
 
-## Testing
+Testing
 
-### Navigation Testing
- **Link**  **Destination**  **Status** 
+Navigation Testing
+ Link**  Destination Status
 
- Home  index.html  Working 
- About Us  about.html, Working 
- Products  products.html, Working
- Enquiry  enquiry.html, Working
+ Home  index.html   Working 
+ About Us  about.html Working 
+ Products  products.html Working
+ Enquiry  enquiry.html Working
  Contact  contact.html, Working
 
-### Responsive Testing
- **Device**  **Breakpoint**  **Status** 
+ Responsive Testing
+ Device  Breakpoint  Status 
 
 Desktop 1200px-Working 
  Tablet  768px-Working 
  Mobile  480px-Working 
 
 
-## Changelog
+ Changelog
 
-### Version 1.2 - CSS Styling and Responsive Design (Part 2)
+ Version 1.2 - CSS Styling and Responsive Design (Part 2)
 
 Date:14 September 2026
 
-**Changes Made:**
+Changes Made:
 
 Created external stylesheet (style.css) and linked to all HTML pages
 Added CSS reset for cross-browser consistency
@@ -181,7 +181,7 @@ Fixed navigation type
 Added screenshots folder
 
 
-### Version 1.1 - Initial Website Structure (Part 1)
+Version 1.1 - Initial Website Structure (Part 1)
 
 Date: August 2026
 
@@ -191,8 +191,7 @@ Implemented consistent navigation
 Added semantic HTML5 elements
 Created folder structure
 Created sitemap
-
-## References
+ References
 
 1. W3Schools. (2026). *CSS Tutorial*. https://www.w3schools.com/css/
 2. MDN Web Docs. (2026). *CSS*. https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -202,12 +201,12 @@ Created sitemap
 6. Visual Studio Code. (2026). https://code.visualstudio.com/
 7. GitHub. (2026). https://docs.github.com/
 
-## Contact
+Contact
 
- **Email:** lebohangkatsana14@gmail.com
- **GitHub:** [lebohang-katsana](https://github.com/lebohang-katsana)
+Email: lebohangkatsana14@gmail.com
+GitHub: [lebohang-katsana](https://github.com/lebohang-katsana)
 
 
-## Conclusion
+ Conclusion
 
 The Ubuntu Bakery website provides an online platform for presenting the bakery's products, services and business information. The project demonstrates the use of HTML, CSS, images, navigation and structured webpage content to create an organised website for a proposed local bakery.
