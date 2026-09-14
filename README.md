@@ -30,10 +30,10 @@ Enquiry  enquiry.html    Gives customers a way to submit questions or requests.
 Contact  contact.html    Provides the information customers need to get in touch with Ubuntu Bakery. 
 
 
- Project Structure
+**Project Structure**
 
-WEDE_POE_ST0481320
-│
+WEDE_POE_ST0481320/
+
 ├── index.html
 ├── about.html
 ├── products.html
@@ -201,7 +201,7 @@ Created sitemap
 6. Visual Studio Code. (2026). https://code.visualstudio.com/
 7. GitHub. (2026). https://docs.github.com/
 
-Contact
+Contact:011 400 8000
 
 Email: lebohangkatsana14@gmail.com
 GitHub: [lebohang-katsana](https://github.com/lebohang-katsana)
