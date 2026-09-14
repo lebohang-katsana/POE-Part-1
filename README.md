@@ -1,27 +1,27 @@
- Ubuntu Bakery Website
+ **Ubuntu Bakery Website**
 
- Project Description
+ **Project Description**
 
 Ubuntu Bakery is a proposed small bakery business that provides freshly baked products to customers within the local community. The website has been developed to establish an online presence for the bakery and to make information about its products, services and contact details easily available to customers.
 
 
- Website Purpose
+ **Website Purpose**
 
-The main purpose of the Ubuntu Bakery website is to:
+**The main purpose of the Ubuntu Bakery website is to:**
 
- Introduce the bakery to potential customers.
- Share information about the bakery.
- Showcase the bakery's products and services.
- Give customers an opportunity to make enquiries.
- Provide accessible contact information.
- Create a straightforward and user-friendly online platform.
+ -Introduce the bakery to potential customers.
+ -Share information about the bakery.
+ -Showcase the bakery's products and services.
+ -Give customers an opportunity to make enquiries.
+ -Provide accessible contact information.
+ -Create a straightforward and user-friendly online platform.
 
 
- Website Pages
+ **Website Pages**
 
-The website consists of five main pages:
+**The website consists of five main pages:**
 
- Page     File Name      Description 
+ **Page**     **File Name**      **Description** 
 
 Home    index.html        Introduces Ubuntu Bakery and displays featured products. 
 About Us about.html      Gives background information about the bakery and includes its mission, vision and values. 
@@ -30,7 +30,7 @@ Enquiry  enquiry.html    Gives customers a way to submit questions or requests.
 Contact  contact.html    Provides the information customers need to get in touch with Ubuntu Bakery. 
 
 
-Project Structure
+**Project Structure**
 
 WEDE_POE_ST0481320/
 
@@ -59,7 +59,7 @@ WEDE_POE_ST0481320/
 └── README.md
 
 
-Technologies Used
+**Technologies Used:**
 
 HTML - Used to create and organise the webpage structure.
 CSS - Used to style the pages and control their visual appearance.
@@ -67,12 +67,12 @@ Images - Used to display bakery products and make the website more visually appe
 GitHub - Used for project version control and documentation.
 
 
-Design Approach
+**Design Approach**
 
 The website follows a simple and organised design so that visitors can navigate between the different pages easily. A consistent navigation menu is included across the website. Bakery-related images are also used to support the website content and improve its visual presentation.
 
 
-Responsive Design
+**Responsive Design**
 
 The website is fully responsive and works on all screen sizes:
 
@@ -81,7 +81,7 @@ Tablet: 768px and below
 Mobile: 480px and below
 
 
-Current Features
+**Current Features**
 
 Five connected webpages.
 Navigation links between the pages.
@@ -93,7 +93,7 @@ Enquiry and contact sections.
 Responsive design for different screen sizes.
 
 
- Future Improvements
+ **Future Improvements**
 
  Adding more product images.
  Improving responsiveness.
@@ -101,12 +101,12 @@ Responsive design for different screen sizes.
  Adding an online ordering system.
 
 
- Target Audience
+ **Target Audience**
 
 The website is designed for local customers who are interested in bakery products and services. This includes customers looking for bread, pastries, cupcakes and cakes, as well as people who require special orders for celebrations and other occasions.
 
 
-Sitemap
+**Sitemap**
 
 
  HOME 
@@ -121,7 +121,7 @@ ABOUT │PRODUCTS │ ENQUIRY
 
 
 
- Screenshots
+ **Screenshots**
 
 ### Desktop View (1200px+)
 ![Desktop Screenshot](Screenshot/desktop.png)
@@ -141,10 +141,9 @@ ABOUT │PRODUCTS │ ENQUIRY
 
 
 
-Testing
+**Testing**
 
-Navigation Testing
- Link**  Destination Status
+**Navigation Testing** **Link**  **Destination Status**
 
  Home  index.html   Working 
  About Us  about.html Working 
@@ -152,21 +151,21 @@ Navigation Testing
  Enquiry  enquiry.html Working
  Contact  contact.html, Working
 
- Responsive Testing
- Device  Breakpoint  Status 
+ **Responsive Testing**
+ **Device  Breakpoint  Status**
 
 Desktop 1200px-Working 
  Tablet  768px-Working 
  Mobile  480px-Working 
 
 
- Changelog
+ **Changelog**
 
  Version 1.2 - CSS Styling and Responsive Design (Part 2)
 
-Date:14 September 2026
+**Date**:14 September 2026
 
-Changes Made:
+**Changes Made:**
 
 Created external stylesheet (style.css) and linked to all HTML pages
 Added CSS reset for cross-browser consistency
@@ -183,15 +182,15 @@ Added screenshots folder
 
 Version 1.1 - Initial Website Structure (Part 1)
 
-Date: August 2026
+**Date:** August 2026
 
-Changes Made:
+**Changes Made:**
 Created five HTML pages
 Implemented consistent navigation
 Added semantic HTML5 elements
 Created folder structure
 Created sitemap
- References
+**References**
 
 1. W3Schools. (2026). *CSS Tutorial*. https://www.w3schools.com/css/
 2. MDN Web Docs. (2026). *CSS*. https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -201,12 +200,12 @@ Created sitemap
 6. Visual Studio Code. (2026). https://code.visualstudio.com/
 7. GitHub. (2026). https://docs.github.com/
 
-Contact:011 400 8000
+**Contact**:011 400 8000
 
-Email: lebohangkatsana14@gmail.com
-GitHub: [lebohang-katsana](https://github.com/lebohang-katsana)
+**Email:** lebohangkatsana14@gmail.com
+**GitHub:** [lebohang-katsana](https://github.com/lebohang-katsana)
 
 
- Conclusion
+ **Conclusion**
 
 The Ubuntu Bakery website provides an online platform for presenting the bakery's products, services and business information. The project demonstrates the use of HTML, CSS, images, navigation and structured webpage content to create an organised website for a proposed local bakery.
