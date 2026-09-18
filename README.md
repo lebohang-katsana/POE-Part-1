@@ -1,4 +1,4 @@
-Detail Information
+**Detail Information**
 
 
 **Student Name** Lebohang Katsana
