@@ -18,7 +18,7 @@
 
 **Project Description**
 
-Ubuntu Bakery is a proposed small bakery business that provides freshly baked products to customers within the local community. The website has been developed to establish an online presence for the bakery and to make information about its products, services and contact details easily available to customers.
+-Ubuntu Bakery is a proposed small bakery business that provides freshly baked products to customers within the local community. The website has been developed to establish an online presence for the bakery and to make information about its products, services and contact details easily available to customers.
 
 
 **Website Purpose**
@@ -154,7 +154,7 @@ The website is designed for local customers who are interested in bakery product
 ### Mobile View (480px)
 ![Mobile Screenshot](Screenshot/mobile.png)
 
----
+
 
 **How to View the Website**
 
