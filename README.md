@@ -1,6 +1,12 @@
 Detail Information
 **Student Name** Lebohang Katsana
+
 **Student Number** ST10481320
+
+**Subject** Web Development
+
+**Course Code** DITM
+
 
 **Ubuntu Bakery Website**
 
