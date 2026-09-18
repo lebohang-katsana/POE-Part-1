@@ -143,7 +143,7 @@ ABOUT │PRODUCTS │ ENQUIRY
 **How to View the Website**
 
 1. Navigate to the project folder
-2. Double-click `index.html`
+2. Double-click index.html
 3. The website will open in your default browser
 
 
