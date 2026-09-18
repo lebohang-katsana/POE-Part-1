@@ -5,21 +5,28 @@
 -Ubuntu Bakery is a proposed small bakery business that provides freshly baked products to customers within the local community. The website has been developed to establish an online presence for the bakery and to make information about its products, services and contact details easily available to customers.
 
 
- **Website Purpose**
-
-**The main purpose of the Ubuntu Bakery website is to:**
-
- -Introduce the bakery to potential customers.
- -Share information about the bakery.
- -Showcase the bakery's products and services.
- -Give customers an opportunity to make enquiries.
- -Provide accessible contact information.
- -Create a straightforward and user-friendly online platform.
 
 
- **Website Pages**
+**Website Purpose**
 
-**The website consists of five main pages:**
+The main purpose of the Ubuntu Bakery website is to:
+
+- Introduce the bakery to potential customers.
+- Share information about the bakery.
+- Showcase the bakery's products and services.
+- Give customers an opportunity to make enquiries.
+- Provide accessible contact information.
+- Create a straightforward and user-friendly online platform.
+
+
+ 
+
+
+ ---
+
+**Website Pages**
+
+The website consists of five main pages:
 
 | **Page** | **File Name** | **Description** |
 |:---|:---|:---|
@@ -29,7 +36,7 @@
 | Enquiry | enquiry.html | Gives customers a way to submit questions or requests. |
 | Contact | contact.html | Provides the information customers need to get in touch with Ubuntu Bakery. |
 
-
+---
 **Project Structure**
 
 WEDE_POE_ST0481320/
