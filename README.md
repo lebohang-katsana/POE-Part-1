@@ -1,4 +1,6 @@
 Detail Information
+
+
 **Student Name** Lebohang Katsana
 
 **Student Number** ST10481320
