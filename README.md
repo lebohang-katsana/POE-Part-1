@@ -7,6 +7,10 @@ Detail Information
 
 **Course Code** DITM
 
+**Project** Website Project- Part 1,2,3
+
+**Year** 2026
+
 
 **Ubuntu Bakery Website**
 
