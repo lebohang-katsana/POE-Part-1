@@ -1,3 +1,7 @@
+Detail Information
+**Student Name** Lebohang Katsana
+**Student Number** ST10481320
+
 **Ubuntu Bakery Website**
 
 **Project Description**
