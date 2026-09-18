@@ -137,7 +137,6 @@ The website is designed for local customers who are interested in bakery product
 
 
 
-
 **Screenshots**
 
 ### Desktop View (1200px+)
@@ -237,5 +236,8 @@ The website is designed for local customers who are interested in bakery product
 **Conclusion**
 
 The Ubuntu Bakery website provides an online platform for presenting the bakery's products, services and business information. The project demonstrates the use of HTML, CSS, images, navigation and structured webpage content to create an organised website for a proposed local bakery.
+
+
+*Last updated: 18 September 2026*
 
 
