@@ -22,8 +22,6 @@ The main purpose of the Ubuntu Bakery website is to:
  
 
 
- ---
-
 **Website Pages**
 
 The website consists of five main pages:
@@ -36,7 +34,7 @@ The website consists of five main pages:
 | Enquiry | enquiry.html | Gives customers a way to submit questions or requests. |
 | Contact | contact.html | Provides the information customers need to get in touch with Ubuntu Bakery. |
 
----
+
 **Project Structure**
 
 WEDE_POE_ST0481320/
