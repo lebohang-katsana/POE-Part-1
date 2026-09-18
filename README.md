@@ -37,7 +37,7 @@ The website consists of five main pages:
 
 **Project Structure**
 
-WEDE_POE_ST0481320/
+WEDE_POE_ST0481320
 
 ├── index.html
 ├── about.html
